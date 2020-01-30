@@ -1,0 +1,14 @@
+{
+    "Checking": ["Classic Checking", "Checking Plus"],
+    "Money Market": [],
+    "Certificates": [
+        "3 Month Certificate",
+        "6 Month Certificate",
+        "12 Month Certificate",
+        "2 Year Certificate",
+        "3 Year Certificate",
+        "4 Year Certificate",
+        "5 Year Certificate",
+        "Liquid Certificate"
+    ]
+}
